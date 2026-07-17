@@ -367,5 +367,8 @@ footer .copyright a:hover {
     grid-template-columns: repeat(1, 1fr);
   }
 
+  .product-item .photo img {
+    max-width: 205px;
+  }
   
 }
